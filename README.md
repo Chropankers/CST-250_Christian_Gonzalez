@@ -1,9 +1,12 @@
-# CST-250_Christian_Gonzalez
-A place for me to store my assignments for the class Programming in C# II. There will be README files in each directory to categorize what each directory is and the relevant files within.
+CST-250: Christian Gonzalez
+Welcome to my GitHub repository for the course Programming in C# II. This repository serves as a central location to store and organize my assignments.
 
-Hello! If you are reading this, then you have reached the Github repository for me, Christian Gonzalez, and will likely either be my professor or a classmate
-with whom I am working. If not, then I guess you found something that won't be that interesting to you lol. Prof, welcome and I hope that my layout isn't 
-insufficiently orderly for you, and I hope to have my README files get you through the different assignments without issue. Student, whoever you are, please 
-look for the folders as they are marked, by Topic week and by Assignment, Milestone, or otherwise noted. There will be readmes for all root folders. Refer to
-them, and if you have trouble email me at Chropankers@gmail.com. I would offer my work email but I check my personal daily, so send messages there and I am far
-more likely to respond than elsewhere. Otherwise, thank you for visiting my Repo!
+Overview
+In each directory, you'll find a README.md file that provides details about the contents and purpose of the folder. These READMEs are designed to help you navigate through the various assignments and resources.
+
+Audience
+Professor: Welcome! I hope the layout of this repository meets your standards. The README files are intended to guide you smoothly through the different assignments. Should you have any suggestions or issues, please feel free to let me know.
+Classmates: Please refer to the folders, which are organized by Topic Week and by Assignment, Milestone, or other specific notes. Each root folder contains its own README for easy reference.
+Contact
+If you encounter any difficulties or have questions, feel free to email me at Chropankers@gmail.com. I regularly check this email, so it's the best way to reach me quickly. I appreciate your visit to my repository and hope you find the materials helpful!
+
