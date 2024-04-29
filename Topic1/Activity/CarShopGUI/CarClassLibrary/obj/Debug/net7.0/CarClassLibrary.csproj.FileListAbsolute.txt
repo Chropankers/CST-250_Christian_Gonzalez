@@ -1,0 +1,11 @@
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\bin\Debug\net7.0\CarClassLibrary.deps.json
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\bin\Debug\net7.0\CarClassLibrary.dll
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\bin\Debug\net7.0\CarClassLibrary.pdb
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\obj\Debug\net7.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\obj\Debug\net7.0\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\obj\Debug\net7.0\CarClassLibrary.AssemblyInfo.cs
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\obj\Debug\net7.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\obj\Debug\net7.0\CarClassLibrary.dll
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\obj\Debug\net7.0\refint\CarClassLibrary.dll
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\obj\Debug\net7.0\CarClassLibrary.pdb
+C:\Users\Chrop\source\repos\CarShopGUI\CarClassLibrary\obj\Debug\net7.0\ref\CarClassLibrary.dll
