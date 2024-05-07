@@ -1,0 +1,14 @@
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\AnimalConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\AnimalConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\AnimalConsoleApp.AssemblyInfo.cs
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\AnimalConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Chrop\source\repos\Animal\Animal\bin\Debug\net7.0\AnimalConsoleApp.exe
+C:\Users\Chrop\source\repos\Animal\Animal\bin\Debug\net7.0\AnimalConsoleApp.deps.json
+C:\Users\Chrop\source\repos\Animal\Animal\bin\Debug\net7.0\AnimalConsoleApp.runtimeconfig.json
+C:\Users\Chrop\source\repos\Animal\Animal\bin\Debug\net7.0\AnimalConsoleApp.dll
+C:\Users\Chrop\source\repos\Animal\Animal\bin\Debug\net7.0\AnimalConsoleApp.pdb
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\AnimalConsoleApp.dll
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\refint\AnimalConsoleApp.dll
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\AnimalConsoleApp.pdb
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\AnimalConsoleApp.genruntimeconfig.cache
+C:\Users\Chrop\source\repos\Animal\Animal\obj\Debug\net7.0\ref\AnimalConsoleApp.dll
