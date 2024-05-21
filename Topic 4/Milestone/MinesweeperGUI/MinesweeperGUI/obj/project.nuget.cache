@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fru6rhz/rScc9QOq3Qj+KRf5jjyB0ZnGnA4P2GxBUMQMlw2n0g4JKC8RkHAJAfEdZSx4yeQHJYZaNwFyZaZkbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chrop\\source\\repos\\MinesweeperGUI\\MinesweeperGUI\\MinesweeperGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chrop\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Chrop\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
