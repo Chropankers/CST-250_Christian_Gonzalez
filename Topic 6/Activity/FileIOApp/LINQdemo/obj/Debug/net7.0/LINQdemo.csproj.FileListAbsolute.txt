@@ -1,0 +1,14 @@
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\bin\Debug\net7.0\LINQdemo.exe
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\bin\Debug\net7.0\LINQdemo.deps.json
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\bin\Debug\net7.0\LINQdemo.runtimeconfig.json
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\bin\Debug\net7.0\LINQdemo.dll
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\bin\Debug\net7.0\LINQdemo.pdb
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\LINQdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\LINQdemo.AssemblyInfoInputs.cache
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\LINQdemo.AssemblyInfo.cs
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\LINQdemo.csproj.CoreCompileInputs.cache
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\LINQdemo.dll
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\refint\LINQdemo.dll
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\LINQdemo.pdb
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\LINQdemo.genruntimeconfig.cache
+C:\Users\Chrop\source\repos\FileIOApp\LINQdemo\obj\Debug\net7.0\ref\LINQdemo.dll

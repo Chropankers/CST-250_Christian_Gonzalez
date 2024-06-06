@@ -1,0 +1,16 @@
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.csproj.GenerateResource.cache
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.AssemblyInfoInputs.cache
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.AssemblyInfo.cs
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.csproj.CoreCompileInputs.cache
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\bin\Debug\net7.0-windows\FileIOApp.exe
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\bin\Debug\net7.0-windows\FileIOApp.deps.json
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\bin\Debug\net7.0-windows\FileIOApp.runtimeconfig.json
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\bin\Debug\net7.0-windows\FileIOApp.dll
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\bin\Debug\net7.0-windows\FileIOApp.pdb
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.MainForm.resources
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.dll
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\refint\FileIOApp.dll
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.pdb
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\FileIOApp.genruntimeconfig.cache
+C:\Users\Chrop\source\repos\FileIOApp\FileIOApp\obj\Debug\net7.0-windows\ref\FileIOApp.dll
